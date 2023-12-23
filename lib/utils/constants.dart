@@ -1,0 +1,9 @@
+const hey = "Hey!";
+const loginHere = "Login here";
+const haveAccount = "Don’t have an account?";
+const signup = "Sign up";
+const emailAddress = "Email Address";
+const password = "Password";
+const login = "Login";
+const forgotPassword = "Forgot Password";
+const clickHere = "Click here";
