@@ -7,3 +7,6 @@ const password = "Password";
 const login = "Login";
 const forgotPassword = "Forgot Password";
 const clickHere = "Click here";
+const requiredValue = "Required";
+const passwordLength = "Minimum 8 character length";
+const invalidEmail = "Invalid Email";

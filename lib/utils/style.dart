@@ -47,6 +47,8 @@ InputDecoration decoration(BuildContext context, String content) {
   return InputDecoration(
     fillColor: textFieldColor,
     hintText: content,
+    errorStyle:
+        Theme.of(context).textTheme.titleSmall?.copyWith(color: Colors.red),
     hintStyle:
         Theme.of(context).textTheme.titleLarge?.copyWith(color: lightTextColor),
     filled: true,
